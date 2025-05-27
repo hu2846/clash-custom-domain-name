@@ -1,0 +1,7 @@
+payload:
+  #自定义屏蔽域名
+
+  #迅雷版权验证
+  - '+.hub5emu.sandai.net'
+  - '+.hub5btmain.sandai.net'
+  - '+.upgrade.xl9.xunlei.com'
