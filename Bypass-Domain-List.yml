@@ -1,0 +1,8 @@
+payload:
+  #绕过代理的域名
+
+  #DDNS域名
+  - '+.hutianqi.xyz'
+
+  #逃离塔克夫官网
+  - '+.escapefromtarkov.com'
